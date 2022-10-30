@@ -1,28 +1,9 @@
 [
     {
-        "name": "Jane Doe",
-        "description": "Great work this company does!!",
-        "stars": "⭐⭐⭐⭐⭐",
-        "city": "Los Angles"
-        
-    },
-    {
         "name": "Jannet Buzsowski",
         "description": "One more thing: the new Google Street View that lets you virtual walk into and around local business is amazing.",
         "stars": "⭐⭐⭐⭐⭐",
         "city": "Detroit"
-    },
-    {
-        "name": "John Doe",
-        "description": "Great Company!!",
-        "stars": "⭐⭐⭐⭐⭐",
-        "city": "San Diego"
-    },
-    {
-        "name": "Michelle Rotten",
-        "description": "We need to put this horrible experience behind us.",
-        "stars": "⭐⭐",
-        "city": "New York"
     },
     {
         "name": "Kyle Chambers",
@@ -42,34 +23,11 @@
         "stars": "⭐⭐⭐⭐⭐",
         "city": "San Diego"
     },
-    {
-        "name": "Sarah Dunn",
-        "description": "Its the good of the company, which is synonymous with the good of stockholders of the company.",
-        "stars": "⭐⭐",
-        "city": "New York"
-    },
+
     {
         "name": "Heidi Simon",
         "description": "Great work this company does!!",
         "stars": "⭐⭐⭐⭐⭐",
         "city": "Los Angles"
-    },
-    {
-        "name": "Lillian Ferguson",
-        "description": "Amazing workers!!",
-        "stars": "⭐⭐⭐⭐⭐",
-        "city": "Detroit"
-    },
-    {
-        "name": "Grant Bass",
-        "description": "Great Company!!",
-        "stars": "⭐⭐⭐⭐⭐",
-        "city": "San Diego"
-    },
-    {
-        "name": "MPaulette Wilkerson",
-        "description": "Horrible Experience will not be returning!!",
-        "stars": "⭐⭐",
-        "city": "New York"
     }
 ]
