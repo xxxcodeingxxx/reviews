@@ -3,84 +3,73 @@
         "name": "Jane Doe",
         "description": "Great work this company does!!",
         "stars": "⭐⭐⭐⭐⭐",
-        "city": "Los Angles",
-        "state": "California"
+        "city": "Los Angles"
+        
     },
     {
         "name": "Jannet Buzsowski",
         "description": "One more thing: the new Google Street View that lets you virtual walk into and around local business is amazing.",
         "stars": "⭐⭐⭐⭐⭐",
-        "city": "Detroit",
-        "state": "Michigan"
+        "city": "Detroit"
     },
     {
         "name": "John Doe",
         "description": "Great Company!!",
         "stars": "⭐⭐⭐⭐⭐",
-        "city": "San Diego",
-        "state": "California"
+        "city": "San Diego"
     },
     {
         "name": "Michelle Rotten",
         "description": "We need to put this horrible experience behind us.",
         "stars": "⭐⭐",
-        "city": "New York",
-        "state": "New York"
+        "city": "New York"
     },
     {
         "name": "Kyle Chambers",
         "description": "Great work this company does!!",
         "stars": "⭐⭐⭐⭐⭐",
-        "city": "Los Angles",
-        "state": "California"
+        "city": "Los Angles"
     },
     {
         "name": "Tyler Fletcher",
         "description": "Business partners are really amazing because they can give kids a look at the day-to-day of different STEM careers and what they actually entail.",
         "stars": "⭐⭐⭐⭐⭐",
-        "city": "Detroit",
-        "state": "Michigan"
+        "city": "Detroit"
     },
     {
         "name": "Jaime Wells",
         "description": "Having this business experience is amazing",
         "stars": "⭐⭐⭐⭐⭐",
-        "city": "San Diego",
-        "state": "California"
+        "city": "San Diego"
     },
     {
         "name": "Sarah Dunn",
         "description": "Its the good of the company, which is synonymous with the good of stockholders of the company.",
         "stars": "⭐⭐",
-        "city": "New York",
-        "state": "New York"
+        "city": "New York"
     },
     {
         "name": "Heidi Simon",
         "description": "Great work this company does!!",
         "stars": "⭐⭐⭐⭐⭐",
-        "city": "Los Angles",
-        "state": "California"
+        "city": "Los Angles"
     },
     {
         "name": "Lillian Ferguson",
         "description": "Amazing workers!!",
         "stars": "⭐⭐⭐⭐⭐",
-        "city": "Detroit",
-        "state": "Michigan"
+        "city": "Detroit"
     },
     {
         "name": "Grant Bass",
         "description": "Great Company!!",
         "stars": "⭐⭐⭐⭐⭐",
-        "city": "San Diego",
-        "state": "California"
+        "city": "San Diego"
     },
     {
         "name": "MPaulette Wilkerson",
         "description": "Horrible Experience will not be returning!!",
         "stars": "⭐⭐",
-        "city": "New York",
-        "state": "New York"
+        "city": "New York"
     }
 ]
